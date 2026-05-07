@@ -2,7 +2,8 @@
   <img src="https://raw.githubusercontent.com/Adore2113/Adore2113/main/adoresprite.gif" width="450">
 </p>
 
-## Welcome! I'm currently working on my little readme, in the meantime feel free to check out my Mars Habitat Simulaor or my Optidawn game on itch.i: https://adore2113.itch.io/codeborn-power-the-dawn
+#### Welcome! 
+I'm currently working on my little readme.  In the meantime feel free to check out my **MarsHSim** my Mars habitat simulaor or my Optidawn game on itch.io: https://adore2113.itch.io/codeborn-power-the-dawn
 
 <!--
 **Adore2113/Adore2113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
