@@ -1,9 +1,8 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Adore2113/Adore2113/main/adoresprite.gif" width="450">
+  <img src="https://raw.githubusercontent.com/Adore2113/Adore2113/main/1banner7fps.gif" width="100%">
 </p>
 
-#### Welcome! 
-I'm currently working on my little readme.  In the meantime feel free to check out my **MarsHSim** my Mars habitat simulaor or my Optidawn game on itch.io: https://adore2113.itch.io/codeborn-power-the-dawn
+<!-- #### Welcome!  I'm currently working on my little readme.  In the meantime feel free to check out my **MarsHSim** my Mars habitat simulaor or my Optidawn game on itch.io: https://adore2113.itch.io/codeborn-power-the-dawn -->
 
 <!--
 **Adore2113/Adore2113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
