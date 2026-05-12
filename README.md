@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Adore2113/Adore2113/main/1banner7fps.gif" width="100%">
+  <img src="1banner7fps.gif" width="100%">
 </p>
 
 <!-- #### Welcome!  I'm currently working on my little readme.  In the meantime feel free to check out my **MarsHSim** my Mars habitat simulaor or my Optidawn game on itch.io: https://adore2113.itch.io/codeborn-power-the-dawn -->
