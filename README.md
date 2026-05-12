@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="updated_glitch.gif" width="100%">
+  <img src="updated_gitbanner.gif" width="100%">
 </p>
 
 <!-- #### Welcome!  I'm currently working on my little readme.  In the meantime feel free to check out my **MarsHSim** my Mars habitat simulaor or my Optidawn game on itch.io: https://adore2113.itch.io/codeborn-power-the-dawn -->
